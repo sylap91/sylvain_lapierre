@@ -1,1 +1,21 @@
-ex:04
+ex04
+
+17/20
+
+S'il vous plaît ne pas utiliser les documents docx.
+
+S'il vous plaît utiliser les noms de projet plus courts (comme ex04); 
+lorsque j'utilise git je dois taper le nom de projet.
+
+utiliser le formatage correct 
+voir Dart Style Guide
+
+ou est .gitignore?
+
+2., 3.
+-2 où sont des fonctions en plus de main?
+
+3.
+-1 years, months and days
+example: 34 years, 7 months, 12 days
+
